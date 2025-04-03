@@ -91,7 +91,7 @@ export default function Home() {
         <div className="flex justify-center items-center gap-8 flex-wrap">
           <Image src="/logos/nvidia.svg" alt="NVIDIA" width={140} height={70} />
           <Image src="/logos/swisscom.svg" alt="Swisscom" width={140} height={70} />
-          <Image src="/logos/Minergie.svg" alt="Minergie" width={140} height={70} />
+          <Image src="/logos/minergie.svg" alt="Minergie" width={140} height={70} />
           <Image src="/logos/lugano.svg" alt="City of Lugano" width={140} height={70} />
           <Image src="/logos/zurich.svg" alt="City of Zürich" width={140} height={70} />
           <Image src="/logos/swissgrid.svg" alt="Swissgrid" width={140} height={70} />
