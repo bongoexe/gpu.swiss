@@ -9,7 +9,7 @@ export default function Home() {
       {/* Header */}
       <header className="w-full bg-white border-b border-gray-200">
         <div className="w-full flex items-center py-4 px-4">
-          <Image src="/logo.svg" alt="gpu.swiss Logo" width={180} height={180} />
+          <Image src="/swissgpu.png" alt="gpu.swiss Logo" width={180} height={180} />
         </div>
       </header>
 
