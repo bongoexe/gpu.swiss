@@ -87,7 +87,7 @@ export default function Home() {
 
       {/* Partner Logos */}
       <section className="w-full pt-12 border-t border-gray-200 mx-0">
-        <h3 className="text-center text-gray-500 mb-4">Enabled by</h3>
+        <h3 className="text-center text-gray-500 mb-4">Powered by</h3>
         <div className="flex justify-center items-center gap-8 flex-wrap">
           <Image src="/logos/nvidia.svg" alt="NVIDIA" width={140} height={70} />
           <Image src="/logos/swisscom.svg" alt="Swisscom" width={140} height={70} />
