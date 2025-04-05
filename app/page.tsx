@@ -109,7 +109,7 @@ export default function Home() {
           <p>Zürich & Lugano, Switzerland</p>
           <p><a href="mailto:sales@gpu.swiss" className="underline">sales@gpu.swiss</a></p>
         </div>
-        <p>&copy; 2025 gpu.swiss</p>
+        <p>&copy; 2025 gpu.swiss · <a href="/privacy" className="underline">Privacy Policy</a></p>
       </footer>
     </main>
   );
