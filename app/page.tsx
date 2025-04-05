@@ -2,10 +2,14 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Mail } from "lucide-react";
 import Image from "next/image";
+import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen p-8 space-y-16 bg-gray-50 text-gray-900">
+     <SpeedInsights />
+     <Analytics />
       {/* Header */}
       <header className="w-full bg-white border-b border-gray-200">
         <div className="w-full flex items-center py-4 px-4">
@@ -79,8 +83,8 @@ export default function Home() {
         <h2 className="text-2xl font-bold">Contact Sales</h2>
         <p>Get in touch for pricing and availability.</p>
         <Button asChild>
-          <a href="mailto:sales@gpu.swiss" className="flex items-center gap-2">
-            <Mail size={18} /> sales@gpu.swiss
+          <a href="mailto:sales@swissgpu.ch " className="flex items-center gap-2">
+            <Mail size={18} /> sales@swissgpu.ch
           </a>
         </Button>
       </section>
