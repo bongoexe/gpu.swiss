@@ -107,7 +107,7 @@ export default function Home() {
       <footer className="w-full max-w-4xl text-center text-sm text-gray-500 pt-12 pb-4 space-y-2">
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <p>Zürich & Lugano, Switzerland</p>
-          <p><a href="mailto:sales@gpu.swiss" className="underline">sales@gpu.swiss</a></p>
+          <p><a href="mailto:sales@gpu.swiss" className="underline">sales@swissgpu.ch</a></p>
         </div>
         <p>&copy; 2025 gpu.swiss · <a href="/privacypolicy" className="underline">Privacy Policy</a></p>
       </footer>
