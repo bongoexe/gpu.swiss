@@ -1,7 +1,3 @@
-// page.tsx
-// Remove the PrivacyPolicy component from here
-
-// app/privacypolicy/page.tsx
 export default function PrivacyPolicy() {
     return (
         <main className="flex flex-col items-center justify-center min-h-screen p-8 space-y-6 text-gray-800 bg-gray-50">
