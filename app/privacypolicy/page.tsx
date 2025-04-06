@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
           Our infrastructure is operated privately and independently, ensuring full control and accountability over data handling processes. Access to all data is restricted and managed according to the principles of privacy by design and by default, in line with Articles 7 and 8 of the nFADP.
         </p>
         <p>
-          Individuals may request access, correction, or deletion of their data at any time by contacting us at <a href="mailto:sales@gpu.swiss" className="underline">sales@gpu.swiss</a>.
+          Individuals may request access, correction, or deletion of their data at any time by contacting us at <a href="mailto:sales@gpu.swiss" className="underline">sales@swissgpu.ch</a>.
         </p>
         <p className="text-sm text-gray-500 italic">
           This service is currently in beta and information contained in this policy may be subject to updates or corrections.
